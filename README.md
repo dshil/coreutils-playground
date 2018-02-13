@@ -1,4 +1,4 @@
-## cutils stands for a cripple coreutils implementation.
+## cutils stands for a cripple coreutils implementation
 
 **Goals**
 
