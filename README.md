@@ -1,10 +1,3 @@
-## Introduction
-
-**Goals**
-
-* Implement a portable collection of general coreutils set.
-* Add support for various platforms.
-
 ## Supported platforms
 
 * Linux
