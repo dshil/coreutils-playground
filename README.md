@@ -1,4 +1,4 @@
-## cutils stands for a cripple coreutils implementation
+## Introduction
 
 **Goals**
 
@@ -17,5 +17,3 @@
 ## Licensing
 
 All code in a public domain.
-
-## Work in progress!
